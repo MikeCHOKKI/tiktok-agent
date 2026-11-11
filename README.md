@@ -147,4 +147,4 @@ Voir [docs/TEST_LOCAL.md](docs/TEST_LOCAL.md) pour le guide complet.
 
 ## 📄 License
 
-MIT
+[MIT](LICENSE) — © 2026 Mike E.S. Chokki
